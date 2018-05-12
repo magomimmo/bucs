@@ -1,0 +1,83 @@
+[menu_title]
+other = "Main menu"
+
+[menu_home]
+other = "Home"
+
+[menu_mobile]
+other = "Menu"
+
+[pager_next]
+other = "Succ"
+
+[pager_prev]
+other = "Prec"
+
+[taxo_tags]
+other = "Tags"
+
+[search_placeholder]
+other = "Cerca"
+
+[search_title]
+other = "Digita il testo che vuoi cercare"
+
+[string_at]
+other = "at"
+
+[string_by]
+other = "by"
+
+[string_follow]
+other = "follow"
+
+[string_in]
+other = "in"
+
+[string_on]
+other = "on"
+
+[string_recent_content]
+other = "Contenuti recenti"
+
+[contact_js]
+other = "Per usare il modulo di contatto, JavaScript deve essere abilitato."
+
+[contact_submitted]
+other = "Il tuo messaggio è stato spedito."
+
+[contact_error]
+other = "Si è manifestato un errore nella spedizione del messagio."
+
+[contact_name]
+other = "Nome"
+
+[contact_name_placeholder]
+other = "Il tuo nome"
+
+[contact_mail]
+other = "Indirizzo e-mail"
+
+[contact_mail_placeholder]
+other = "Il tuo indirizzo e-mail"
+
+[contact_subject]
+other = "Oggetto"
+
+[contact_subject_placeholder]
+other = "Digita l'oggetto"
+
+[contact_message]
+other = "Messagio"
+
+[contact_message_placeholder]
+other = "Digita qui il messaggio…"
+
+[contact_submit]
+other = "Spedisci il messagio"
+
+[contact_honypot]
+other = "Skip if you are a human"
+
+[lang_select_title]
+other = "Selettore della lingua"
