@@ -50,5 +50,5 @@ params:
   poweredby: false
   search: true
   searchSize: 20
-  sidebar: true
+  sidebar: false
   submitted: true
