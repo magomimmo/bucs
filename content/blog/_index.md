@@ -1,6 +1,5 @@
 ---
 title: "Blog"
 author: "Magomimmo"
-
 ---
 
