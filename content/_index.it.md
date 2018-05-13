@@ -8,7 +8,7 @@ author: "Magomimmo"
 
 {{< figure src="/images/apple-iphone6-gold-portrait.png">}}
 
-## Make the Web Fun Again
+## Fare un sito
 
 Introducing Hugo, a new idea for making website creation simple again. Hugo works flexibly with many formats, and is ideal for blogs, docs, portfolios and much more. Hugo’s speed fosters creativity—it makes building a website fun again.
 

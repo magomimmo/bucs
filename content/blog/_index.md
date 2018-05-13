@@ -1,6 +1,6 @@
 ---
 title: "Blog"
-author: "MAgomimmo"
+author: "Magomimmo"
 
 ---
 
