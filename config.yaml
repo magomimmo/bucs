@@ -2,17 +2,18 @@
 title: "Bùcs"
 baseURL: "https://example.org/"
 theme: "zen"
-languageCode: "it-IT"
-defaultContentLanguage: "it"
+languageCode: "en-GB"
+defaultContentLanguage: "en"
 languages:
-  it:
+  en:
     weight: 1
     params:
-      LanguageName: "It"
-  en:
+      LanguageName: "En"
+  it:
     weight: 2
     params:
-      LanguageName: "En"
+      LanguageName: "It"
+
 
 metaDataFormat: "yaml"
 pluralizelisttitles: false
@@ -44,7 +45,7 @@ params:
   imageMaxWidth: 400
   jquery: true
   languageDir: "ltr"
-  logo: false
+  logo: true
   mobileMenu: true
   poweredby: false
   search: true
