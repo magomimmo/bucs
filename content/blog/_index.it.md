@@ -1,5 +1,5 @@
 ---
 title: "Blog"
-author: "Fredrik Jonsson"
+author: "Magomimmo"
 
 ---
