@@ -21,6 +21,7 @@ $chroma: add-colors((
   red:                    #c00,
   green:                  #43a808,
   yellow:                 #fd0,
+  orange:                 #f39d16,
 ));
 
 // Define color names for functional uses.
@@ -34,9 +35,9 @@ $chroma: add-colors('functional', (
   text-bg:                'white',
   text-meta:              'grey-dark',
 
-  link:                   'black',
-  link-visited:           'black',
-  link-hover:             'brand',
+  link:                   'orange',
+  link-visited:           'orange',
+  link-hover:             'orange',
   link-active:            'red',
 
   border:                 'grey-light',
