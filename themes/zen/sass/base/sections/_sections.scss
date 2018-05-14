@@ -87,7 +87,7 @@ h6,
 
   h2,
   %h2 {
-    @include type-layout(xl-2, 1.5);
+    @include type-layout(l-2, 1.5);
     @include margin-top(1, xl-2);
     @include margin-bottom(1, xl-2);
   }
