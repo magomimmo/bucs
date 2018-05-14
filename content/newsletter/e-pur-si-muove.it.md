@@ -1,5 +1,5 @@
 ---
-title: "E pur si muove! - Bùcs - #5"
+title: "E pur si muove! - Bùcs #5"
 date: 2018-04-16T16:32:35+02:00
 author: "Fausto Gimondi"
 ---

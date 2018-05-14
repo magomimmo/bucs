@@ -1,5 +1,5 @@
 ---
-title: "Riassunti umani, librerie da sogni e innovazione bolognese - Bùcs - #4"
+title: "Riassunti umani, librerie da sogni e innovazione bolognese - Bùcs #4"
 date: 2018-04-09T16:28:45+02:00
 author: "Fausto Gimondi"
 ---
