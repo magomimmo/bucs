@@ -857,8 +857,6 @@ article > .content ol > li::before, aside ol > li::before {
   text-decoration: none;
   font-weight: bold;
   line-height: 1;
-  border: 1px solid #cccccc;
-  border-radius: 3px;
   color: #000;
   pointer-events: auto;
 }
