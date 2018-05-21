@@ -1,16 +1,16 @@
 ---
 title: "Bùcs"
-baseURL: "https://example.org/"
+baseURL: "https://www.bucsclub.it/"
 theme: "zen"
 languageCode: "en-GB"
-defaultContentLanguage: "en"
+defaultContentLanguage: "it"
 languages:
   en:
-    weight: 1
+    weight: 2
     params:
       LanguageName: "En"
   it:
-    weight: 2
+    weight: 1
     params:
       LanguageName: "It"
 
@@ -22,8 +22,8 @@ paginate: 10
 paginatePath: "page"
 rssLimit: 20
 author:
-  name: "Your Name"
-  url: "https://example.org/somepage"
+  name: "Fausto Gimondi"
+  url: "https://bucsclub.it"
   avatar: "path/to/some-image.jpg"
 
 outputs:
@@ -33,7 +33,7 @@ outputs:
 params:
   cacheBustCSS: false
   cacheBustJS: false
-  contact: "info@example.org"
+  contact: "info@bucsclub.it"
   copyright: "<!--Creative Commons License-->This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).<!--/Creative Commons License-->"
   description: "The zen theme for Hugo example site."
   dateformat: "2 January, 2006"
@@ -48,7 +48,7 @@ params:
   logo: true
   mobileMenu: true
   poweredby: false
-  search: true
+  search: false
   searchSize: 20
   sidebar: false
   submitted: true
